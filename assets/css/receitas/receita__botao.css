@@ -3,13 +3,13 @@
   border: none;
   border-radius: 5px;
   color: #fdfdfd;
-  padding: 1rem;
   margin: 0 auto;
+  padding: 1rem;
   transition: all .1s ease-in-out;
 
 }
 
 .receita__botao:hover{
-  cursor: pointer;
   background: #620404;
+  cursor: pointer;
 }
