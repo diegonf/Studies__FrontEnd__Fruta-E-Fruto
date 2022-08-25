@@ -1,3 +1,11 @@
+.banner {
+  position: relative;
+}
+.banner__imagem{
+  background: url('../img/banner.jpg') no-repeat center / cover;
+
+  width: 100%;
+}
 .banner__titulo {
   color: #FDFDFD;
   font-family: Pacifico, cursive;
@@ -11,12 +19,17 @@
 }
 
 @media screen and (min-width: 0) {
+  .banner__imagem{
+    height: calc(100vh - 51px);
+  }
   .banner__titulo{
     font-size: 3rem;
   }
 }
-
 @media screen and (min-width: 768px) {
+  .banner__imagem{
+    height: calc(100vh - 72px);
+  }
   .banner__titulo{
     font-size: 5.0625rem;
   }
