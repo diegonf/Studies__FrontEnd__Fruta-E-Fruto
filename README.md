@@ -1,6 +1,6 @@
 ## <p align="center">![logo da Fruta e Fruto](./assets/img/logo.jpg)<br>Fruta & Fruto </p>
 
-* Projeto: https://diegonf.github.io/Studies__Fruta-E-Fruto/
+* Projeto: https://diegonf.github.io/Studies__FrontEnd__Fruta-E-Fruto/
 * Curso: Arquitetura CSS: descomplicando os problemas
 * Instituição: [Alura](https://www.alura.com.br)
 
